@@ -1,18 +1,6 @@
 {
   "students": [
     {
-      "id": "2",
-      "name": "Olha Kovalenko",
-      "age": 16,
-      "course": "Game Development",
-      "skills": [
-        "C#",
-        "Unity"
-      ],
-      "email": "olha.kovalenko@example.com",
-      "isEnrolled": true
-    },
-    {
       "id": "3",
       "name": "Dmytro Shevchenko",
       "age": 14,
@@ -61,13 +49,14 @@
       "id": "6"
     },
     {
-      "name": "3ered",
+      "name": "3e",
       "age": "32",
       "course": "edw",
       "skills": "ededw@wdd",
       "email": "tgr@frre",
-      "isEnrolled": true,
+      "isEnrolled": false,
       "id": "O9b5ZERYV9M"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
